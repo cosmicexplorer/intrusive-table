@@ -1,0 +1,10 @@
+[package]
+name                    = "intrusive-table"
+description             = "A hash (?) table that allows allocating memory within a specified memory region."
+authors                 = ["Danny McClanahan <dmcC2@hypnicjerk.ai>"]
+license                 = "LGPL-3.0-or-later"
+repository              = "https://github.com/cosmicexplorer/intrusive-table"
+version                 = "0.0.0"
+edition                 = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
